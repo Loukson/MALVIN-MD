@@ -24,8 +24,8 @@ const config = {
   REJECT_CALL: process.env.REJECT_CALL !== undefined ? process.env.REJECT_CALL === 'true' : false, 
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "public",
-  OWNER_NAME: process.env.OWNER_NAME || "𝑲𝑨𝑹𝑨࿚𝑮𝑨𝑹𝑫𝑬𝑵",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "221765147478",
+  OWNER_NAME: process.env.OWNER_NAME || "✮✮✮ʟᴏᴜᴋsᴏɴᵘᶻᵘᵐᵃᵏⁱ₊ ͟͟͞͞➳",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "22502331988",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
